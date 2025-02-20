@@ -1,5 +1,3 @@
-**# Implementação do Sistema de Segurança**
-
 ## Cadastro de Usuário
 
 ### Hash de senha com bcrypt:
